@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am an MSc Data Science student with a strong foundation in BSc Mathematics. My journey through the fascinating world of data has equipped me with a solid grasp of analytical skills and a deep appreciation for uncovering valuable insights from intricate datasets. 
+I am an MSc Data Science student presently doing internship at 6d Technologies. My journey through the fascinating world of data has equipped me with a solid grasp of analytical skills and a deep appreciation for uncovering valuable insights from intricate datasets. 
 
 ## Skills and Expertise
 
